@@ -1,4 +1,4 @@
-# take the following if/elif/else statement
+# Take the following if/elif/else statement
 user_name = "Dave"  
 if user_name == "Dave":   
     print("Get off my computer Dave!")   
@@ -9,7 +9,7 @@ elif user_name == "Travis Paul Pyle":
 else:   
     print("Username not recognized.") 
     
-   #we can achieve the same thing using a match statement as  shown below
+# We can achieve the same thing using a match statement as  shown below
 user_name = "Dave"  
 match user_name:  
     case "Dave":  
